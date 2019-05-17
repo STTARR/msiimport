@@ -16,7 +16,7 @@ Install msiimport with:
 
 ## Example
 
-```
+```python
 # Get a 2D ndarray of data near an m/z peak
 
 from msiimport import analyze75 as ana
